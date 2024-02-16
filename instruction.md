@@ -93,5 +93,5 @@ git rm Documentation/\*.txt
 ```
 Вносит в индекс все удаленные файлы:
 ```
-git rm -r --cached .
+git rm -r --cached . 
 ```
